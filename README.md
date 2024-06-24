@@ -1,3 +1,6 @@
+This is the first basic project assigned to me at the SlashMark IT Internship 
+
+
 # Encryption App
 
 This Encryption App is a web-based application that allows users to encrypt and decrypt text using a secure encryption algorithm. Built with the MERN stack (MongoDB, Express.js, React, and Node.js), this app provides a user-friendly interface for text encryption and decryption.
